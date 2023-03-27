@@ -1,3 +1,6 @@
+// Created by Chris Tomaskovic and Brendan Carlson
+
+// Import libraries
 #include <iostream>
 #include <string>
 #include <ctime>
